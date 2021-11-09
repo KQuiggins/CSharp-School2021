@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.exe
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.deps.json
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.runtimeconfig.json
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.dll
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\ref\OverloadedTriples.dll
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\bin\Debug\net5.0\OverloadedTriples.pdb
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.AssemblyInfo.cs
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.dll
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\ref\OverloadedTriples.dll
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.pdb
+C:\Users\kashf\source\repos\OverloadedTriples\OverloadedTriples\obj\Debug\net5.0\OverloadedTriples.genruntimeconfig.cache
