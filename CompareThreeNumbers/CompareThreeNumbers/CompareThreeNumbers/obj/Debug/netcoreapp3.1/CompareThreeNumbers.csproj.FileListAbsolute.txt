@@ -1,0 +1,14 @@
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.exe
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.deps.json
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.runtimeconfig.json
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.dll
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp3.1\CompareThreeNumbers.pdb
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.AssemblyInfo.cs
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.dll
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.pdb
+C:\Users\kashf\source\repos\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp3.1\CompareThreeNumbers.genruntimeconfig.cache
