@@ -1,0 +1,14 @@
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.AssemblyInfo.cs
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.exe
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.deps.json
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.runtimeconfig.json
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.dll
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\bin\Debug\netcoreapp3.1\DemoORAndAND.pdb
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.dll
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.pdb
+C:\Users\kashf\source\repos\DemoORAndAND\DemoORAndAND\obj\Debug\netcoreapp3.1\DemoORAndAND.genruntimeconfig.cache
