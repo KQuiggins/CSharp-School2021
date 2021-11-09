@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.exe
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.deps.json
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.runtimeconfig.json
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.dll
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\ref\CreateNameFile.dll
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\bin\Debug\net5.0\CreateNameFile.pdb
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.AssemblyInfo.cs
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.dll
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\ref\CreateNameFile.dll
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.pdb
+C:\Users\kashf\source\repos\CreateNameFile\CreateNameFile\obj\Debug\net5.0\CreateNameFile.genruntimeconfig.cache
