@@ -1,0 +1,10 @@
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe.config
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.exe
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\bin\Debug\ViewInvoices.pdb
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Form1.resources
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.Properties.Resources.resources
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.GenerateResource.cache
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.exe
+C:\Users\kashf\source\repos\ViewInvoices\ViewInvoices\obj\Debug\ViewInvoices.pdb
