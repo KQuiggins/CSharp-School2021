@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.exe
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.deps.json
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.runtimeconfig.json
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.dll
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\ref\SwapProgram.dll
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\bin\Debug\net5.0\SwapProgram.pdb
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.AssemblyInfo.cs
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.dll
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\ref\SwapProgram.dll
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.pdb
+C:\Users\kashf\source\repos\SwapProgram\SwapProgram\obj\Debug\net5.0\SwapProgram.genruntimeconfig.cache
