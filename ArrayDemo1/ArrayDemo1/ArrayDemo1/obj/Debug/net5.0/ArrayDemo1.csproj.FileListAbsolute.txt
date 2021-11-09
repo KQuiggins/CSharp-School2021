@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.exe
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.deps.json
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.runtimeconfig.json
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.dll
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ref\ArrayDemo1.dll
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\bin\Debug\net5.0\ArrayDemo1.pdb
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.AssemblyInfo.cs
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.dll
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ref\ArrayDemo1.dll
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.pdb
+C:\Users\kashf\source\repos\ArrayDemo1\ArrayDemo1\obj\Debug\net5.0\ArrayDemo1.genruntimeconfig.cache
