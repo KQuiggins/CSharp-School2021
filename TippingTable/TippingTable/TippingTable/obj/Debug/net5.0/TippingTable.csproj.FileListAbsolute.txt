@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.exe
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.deps.json
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.runtimeconfig.json
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.dll
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\ref\TippingTable.dll
+C:\Users\kashf\source\repos\TippingTable\TippingTable\bin\Debug\net5.0\TippingTable.pdb
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.AssemblyInfo.cs
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.dll
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\ref\TippingTable.dll
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.pdb
+C:\Users\kashf\source\repos\TippingTable\TippingTable\obj\Debug\net5.0\TippingTable.genruntimeconfig.cache
