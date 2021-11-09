@@ -1,0 +1,10 @@
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.AssemblyReference.cache
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Form1.resources
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.Properties.Resources.resources
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.GenerateResource.cache
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.csproj.CoreCompileInputs.cache
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe.config
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\bin\Debug\DailySpecial.exe
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\bin\Debug\DailySpecial.pdb
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.exe
+C:\Users\JCTCStudent\source\repos\DailySpecial\DailySpecial\obj\Debug\DailySpecial.pdb
