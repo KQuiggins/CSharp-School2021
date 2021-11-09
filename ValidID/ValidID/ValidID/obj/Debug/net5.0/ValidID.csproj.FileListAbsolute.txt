@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.exe
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.deps.json
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.runtimeconfig.json
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.dll
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ref\ValidID.dll
+C:\Users\kashf\source\repos\ValidID\ValidID\bin\Debug\net5.0\ValidID.pdb
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.AssemblyInfo.cs
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.dll
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ref\ValidID.dll
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.pdb
+C:\Users\kashf\source\repos\ValidID\ValidID\obj\Debug\net5.0\ValidID.genruntimeconfig.cache
