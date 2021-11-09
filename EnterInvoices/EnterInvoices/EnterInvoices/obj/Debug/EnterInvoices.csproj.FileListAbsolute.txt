@@ -1,0 +1,10 @@
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Form1.resources
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.Properties.Resources.resources
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.GenerateResource.cache
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe.config
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.exe
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\bin\Debug\EnterInvoices.pdb
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.exe
+C:\Users\kashf\source\repos\EnterInvoices\EnterInvoices\obj\Debug\EnterInvoices.pdb
