@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.exe
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.deps.json
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.runtimeconfig.json
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.dll
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\ref\CreateStudents4.dll
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\bin\Debug\net5.0\CreateStudents4.pdb
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.AssemblyInfo.cs
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.dll
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\ref\CreateStudents4.dll
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.pdb
+C:\Users\kashf\source\repos\CreateStudents4\CreateStudents4\obj\Debug\net5.0\CreateStudents4.genruntimeconfig.cache
