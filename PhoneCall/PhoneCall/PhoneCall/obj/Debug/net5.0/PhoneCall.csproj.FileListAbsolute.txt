@@ -1,0 +1,16 @@
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.exe
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.deps.json
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.runtimeconfig.json
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.runtimeconfig.dev.json
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.dll
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\ref\PhoneCall.dll
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\bin\Debug\net5.0\PhoneCall.pdb
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.csproj.AssemblyReference.cache
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.AssemblyInfoInputs.cache
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.AssemblyInfo.cs
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.csproj.CoreCompileInputs.cache
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.dll
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\ref\PhoneCall.dll
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.pdb
+C:\Users\kashf\source\repos\PhoneCall\PhoneCall\obj\Debug\net5.0\PhoneCall.genruntimeconfig.cache
